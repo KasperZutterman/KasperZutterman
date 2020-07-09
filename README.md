@@ -1,5 +1,12 @@
 ### Hi there 👋
+My name is Kasper Zutterman. I'm a Information Engineering Technology Student at Ghent University based in Belgium :belgium:.
 
+I'm currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine) as a Backend Development Intern [@osoc](https://twitter.com/oSocode)
+
+### Trivia
+- 🔭 I’m currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine)
+- 🌱 I’m currently learning Mapbox GL JS
+- 📫 How to reach me: kasperzutterman1999@gmail.com
 <!--
 **KasperZutterman/KasperZutterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
