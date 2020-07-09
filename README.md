@@ -6,7 +6,11 @@ I'm currently working on the [Serendipity Engine Project](https://github.com/oSo
 ### Trivia
 - 🔭 I’m currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine)
 - 🌱 I’m currently learning Mapbox GL JS
-- 📫 How to reach me: kasperzutterman1999@gmail.com
+
+### 📫 Contact Me
+- Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
+- LinkedIn - [Kasper Zutterman](https://www.linkedin.com/in/kasperzutterman/)
+- Email - [kasperzutterman1999@gmail.com](mailto:kasperzutterman1999@gmail.com)
 <!--
 **KasperZutterman/KasperZutterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
