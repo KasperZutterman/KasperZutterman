@@ -11,6 +11,9 @@ I'm currently working on the [Serendipity Engine Project](https://github.com/oSo
 - Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
 - LinkedIn - [Kasper Zutterman](https://www.linkedin.com/in/kasperzutterman/)
 - Email - [kasperzutterman1999@gmail.com](mailto:kasperzutterman1999@gmail.com)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KasperZutterman)](https://github.com/KasperZutterman)
+
 <!--
 **KasperZutterman/KasperZutterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
