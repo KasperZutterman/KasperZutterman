@@ -1,11 +1,13 @@
-### Hi there 👋
-My name is Kasper Zutterman. I'm a Information Engineering Technology Student at Ghent University based in Belgium :belgium:.
+### Hi! My name is Kasper Zutterman, thanks for stopping by 👋
+I'm an upcoming senior at [Ghent University](https://www.ugent.be/en) based in Belgium. I am currently pursuing the Information Engineering Technology master's degree at the Faculty of Engineering.
 
-I'm currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine) as a Backend Development Intern [@osoc](https://twitter.com/oSocode)
+This summer, I'm interning at [Open Summer of Code](https://osoc.be/) to help build the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine) as a Backend & Data Development Intern. You can find the website we are developing [here](https://mymentalmap.be/).
+
+I'm currently looking for an internship for Summer ☀ 2021. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kasperzutterman/) or via [e-mail](mailto:kasperzutterman1999@gmail.com).
 
 ### Trivia
 - 🔭 I’m currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine)
-- 🌱 I’m currently learning Mapbox GL JS
+- 🌱 I’m currently learning Solid
 
 ### 📫 Contact Me
 - Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
