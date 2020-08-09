@@ -7,7 +7,7 @@ I'm currently looking for an internship for Summer ☀ 2021. Feel free to reach 
 
 ### Trivia
 - 🔭 I’m currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine)
-- 🌱 I’m currently learning Solid
+- 🌱 I’m currently learning [Solid](https://solidproject.org/)
 
 ### 📫 Contact Me
 - Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
