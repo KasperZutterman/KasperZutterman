@@ -1,12 +1,12 @@
 ### Hi! My name is Kasper Zutterman, thanks for stopping by 👋
-I'm an upcoming senior at [Ghent University](https://www.ugent.be/en) based in Belgium. I am currently pursuing the Information Engineering Technology master's degree at the Faculty of Engineering.
+I'm a senior at [Ghent University](https://www.ugent.be/en) based in Belgium. I am currently pursuing the Information Engineering Technology master's degree at the Faculty of Engineering.
 
-This summer, I'm interning at [Open Summer of Code](https://osoc.be/) to help build the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine) as a Backend & Data Development Intern. You can find the website we are developing [here](https://mymentalmap.be/).
+Last summer, I've worked a summer job at the [KNowledge on Web Scale (KNoWS)](https://knows.idlab.ugent.be/index.html) team to help build the [Basic LDES Server](https://github.com/TREEcg/Basic-LDES-Server) and the [LDES Action](https://github.com/TREEcg/LDES-Action). I got the chance to work on Linked Data problems learning about RDF, Linked Data Event Streams (LDES), Github Actions and so much more!
 
-I'm currently looking for an internship for Summer ☀ 2021. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kasperzutterman/) or via [e-mail](mailto:kasperzutterman1999@gmail.com).
+I'm currently working on my master's thesis, researching a set of best practices for [Linked Data Event Streams (LDES)](https://semiceu.github.io/LinkedDataEventStreams/) for publication, replication and synchronization. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kasperzutterman/) or via [e-mail](mailto:kasperzutterman1999@gmail.com).
 
 ### Trivia
-- 🔭 I’m currently working on the [Serendipity Engine Project](https://github.com/oSoc20/SerendipityEngine)
+- 🔭 I’m currently working on the [LDES Action](https://github.com/TREEcg/LDES-Action)
 - 🌱 I’m currently learning [Solid](https://solidproject.org/)
 
 ### 📫 Contact Me
