@@ -7,7 +7,6 @@ I'm currently working on my master's thesis, researching a set of best practices
 
 ### Trivia
 - 🔭 I’m currently working on the [LDES Action](https://github.com/TREEcg/LDES-Action)
-- 🌱 I’m currently learning [Solid](https://solidproject.org/)
 
 ### 📫 Contact Me
 - Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
