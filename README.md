@@ -1,5 +1,5 @@
 ### Hi! My name is Kasper Zutterman, thanks for stopping by 👋
-I'm a Senior Data Engineer [@OTA Insight](https://www.otainsight.com/) based in Belgium
+I'm a Senior Data Engineer [@Lighthouse](https://www.mylighthouse.com/) based in Belgium
 
 Last summer, I've worked a summer job at the [KNowledge on Web Scale (KNoWS)](https://knows.idlab.ugent.be/index.html) team to help build the [Basic LDES Server](https://github.com/TREEcg/Basic-LDES-Server) and the [LDES Action](https://github.com/TREEcg/LDES-Action). I got the chance to work on Linked Data problems learning about RDF, Linked Data Event Streams (LDES), Github Actions and so much more!
 
