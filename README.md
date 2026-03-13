@@ -1,16 +1,27 @@
-### Hi! My name is Kasper Zutterman, thanks for stopping by 👋
-I'm a Senior Data Engineer [@Lighthouse](https://www.mylighthouse.com/) based in Belgium
+### Hi there! I'm Kasper Zutterman 👋
+I'm a Senior Data Engineer [@Lighthouse](https://www.mylighthouse.com/) based in Belgium 🇧🇪.
+I am passionate about building scalable data infrastructure, designing robust pipelines, and solving complex data architecture problems.
 
-Last summer, I've worked a summer job at the [KNowledge on Web Scale (KNoWS)](https://knows.idlab.ugent.be/index.html) team to help build the [Basic LDES Server](https://github.com/TREEcg/Basic-LDES-Server) and the [LDES Action](https://github.com/TREEcg/LDES-Action). I got the chance to work on Linked Data problems learning about RDF, Linked Data Event Streams (LDES), Github Actions and so much more!
+🚀 What I'm currently up to:
+- Architecting and maintaining high-performance data pipelines at Lighthouse.
+- Driving data quality, reliability, and engineering best practices within my team.
+- **Python Steering Committee**: Leading company-wide initiatives to modernize our Python ecosystem, establishing engineering best practices, and rolling out next-gen tooling like `uv` and `Ruff`.
+- **AI Steering Committee**: Championing the integration and adoption of AI developer tools (such as Claude Code) to accelerate workflows and boost engineering productivity across the organization.
 
-I've recently graduated with my master's thesis, researching a set of best practices for [Linked Data Event Streams (LDES)](https://semiceu.github.io/LinkedDataEventStreams/) for publication, replication and synchronization. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kasperzutterman/) or via [e-mail](mailto:kasperzutterman1999@gmail.com).
+🛠️ Tech Stack & Tools:
+- **Languages**: Python, SQL, Go
+- **Libraries**: uv, Ruff, Pydantic, Pyright, Pyrefly, Pytest
+- **Data & Cloud**: GCP, Spanner, BigQuery, MySQL, DuckDB, Pub/Sub, k8s
+- **Tools**: VS Code, Claude Code, DataGrip
 
-### 📫 Contact Me
+### 📫 Let's Connect!
 - Twitter - [@KasperZutterman](https://twitter.com/KasperZutterman)
 - LinkedIn - [Kasper Zutterman](https://www.linkedin.com/in/kasperzutterman/)
 - Email - [kasperzutterman1999@gmail.com](mailto:kasperzutterman1999@gmail.com)
 
+<!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KasperZutterman)](https://github.com/KasperZutterman)
+-->
 
 <!--
 **KasperZutterman/KasperZutterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
